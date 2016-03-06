@@ -1,0 +1,1 @@
+- unzip files in data/en_us before running the scripts

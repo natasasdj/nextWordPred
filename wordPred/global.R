@@ -1,0 +1,7 @@
+library(data.table)
+cat("start download")
+unigram<-readRDS("unigram2.rds")
+bigram<-readRDS("bigram2.rds")
+trigram<-readRDS("trigram2.rds")
+quadrigram<-readRDS("quadrigram2.rds")
+cat("end download")
