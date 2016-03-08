@@ -1,3 +1,13 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# functions for processing text into sentnces
+# functions for processing a sentence into n-grams
+
+
 #### split text on sentences
 # replace numbers with #no
 # remove punctuation

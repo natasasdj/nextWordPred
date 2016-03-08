@@ -1,3 +1,10 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# data collection
 con <- file("data/en_US/en_US.blogs.txt", "r") 
 a=readLines(con, -1) 
 m=max(nchar(a))

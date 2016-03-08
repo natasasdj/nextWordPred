@@ -1,3 +1,12 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# make hash into data.table
+
+
 library(data.table)
 wh<-readRDS("results/whBNTpred3wum.rds")
 unigram<-wh[["_pred"]]

@@ -1,3 +1,9 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
 # input: words - character vector of words
 # output:
 source("00change_locale.R")

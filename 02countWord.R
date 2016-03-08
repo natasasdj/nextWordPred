@@ -1,3 +1,12 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# counts of words
+
+
 con <- file("data/en_US/test.txt", "r") 
 t=readLines(con, -1) 
 close(con)

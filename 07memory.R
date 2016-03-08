@@ -1,3 +1,11 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# saving memory - delete unnecessary entries
+
 wh<-readRDS("results/whBNTpred3wu2.rds")
 i<-0
 for (v1 in ls(wh)){

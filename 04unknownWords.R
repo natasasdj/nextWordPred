@@ -1,3 +1,9 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
 ######## unknown words - first word
 
 unknown_words1<-function(verbose=FALSE){

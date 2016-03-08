@@ -1,3 +1,10 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
+# count of words
 
 ####### very slow #############
 # l<-1; w<-0; uw<-0

@@ -1,3 +1,9 @@
+# Next Word Prediction
+# Data Science Capstone Project
+# Johns Hopkins University on Coursera
+# Author: Natasa Sarafijanovic-Djukic
+# January 2016
+
 # check unigram statistics and decide to prune, or to put unk word
 
 wh<-readRDS("results/whBNT.RData")
